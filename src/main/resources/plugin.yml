@@ -1,0 +1,7 @@
+main: net.simplyrin.processorinfo.spigot.Main
+name: ProcessorInfo
+version: 1.0
+author: SimplyRin
+
+commands:
+  processorinfo:
